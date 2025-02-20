@@ -8,9 +8,9 @@ import java.util.Scanner;
 import static java.lang.Class.forName;
 
 public class BankingApp {
-    private static final String url = "jdbc:mysql://localhost:3306/bank_management";
+    private static final String url = "jdbc:mysql://localhost:3306/......";
     private static final String username = "root";
-    private static final String password = "Haldia@00000";
+    private static final String password = "**********";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
