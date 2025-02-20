@@ -16,6 +16,7 @@ Welcome to the Banking System project! This Java-based application enables users
 - MySQL (or your preferred database system)
 
 # 📸 Screenshots
-- Database Schema.png
+- ![Database Schema](https://github.com/user-attachments/assets/50288b1f-30d5-4714-8d5b-8e17ffd6b369)
+
 
 # Happy coding! 🎉
